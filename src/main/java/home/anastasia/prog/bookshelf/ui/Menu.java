@@ -1,10 +1,10 @@
-package home.anastasia.prog.bookshelf;
+package home.anastasia.prog.bookshelf.ui;
 
-import home.anastasia.prog.bookshelf.exception.BookshelfException;
-import home.anastasia.prog.bookshelf.exception.WrongUserInputException;
+import home.anastasia.prog.bookshelf.exception.ui.BookshelfException;
+import home.anastasia.prog.bookshelf.exception.ui.WrongUserInputException;
 
-import static home.anastasia.prog.bookshelf.ConsoleOutput.*;
-import static home.anastasia.prog.bookshelf.Messages.*;
+import static home.anastasia.prog.bookshelf.ui.ConsoleOutput.*;
+import static home.anastasia.prog.bookshelf.ui.Messages.*;
 
 public class Menu {
     public void launch() {

@@ -1,4 +1,4 @@
-package home.anastasia.prog.bookshelf;
+package home.anastasia.prog.bookshelf.ui;
 
 import java.util.List;
 

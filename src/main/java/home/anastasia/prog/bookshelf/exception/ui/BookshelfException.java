@@ -1,4 +1,4 @@
-package home.anastasia.prog.bookshelf.exception;
+package home.anastasia.prog.bookshelf.exception.ui;
 
 public class BookshelfException extends RuntimeException {
     public BookshelfException() {

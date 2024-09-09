@@ -1,10 +1,10 @@
-package home.anastasia.prog.bookshelf;
+package home.anastasia.prog.bookshelf.ui;
 
-import home.anastasia.prog.bookshelf.exception.WrongUserInputException;
+import home.anastasia.prog.bookshelf.exception.ui.WrongUserInputException;
 import java.util.Scanner;
 
-import static home.anastasia.prog.bookshelf.ConsoleOutput.display;
-import static home.anastasia.prog.bookshelf.ConsoleOutput.displayPrompt;
+import static home.anastasia.prog.bookshelf.ui.ConsoleOutput.display;
+import static home.anastasia.prog.bookshelf.ui.ConsoleOutput.displayPrompt;
 
 public class ConsoleInput {
     private final Scanner scanner = new Scanner(System.in);

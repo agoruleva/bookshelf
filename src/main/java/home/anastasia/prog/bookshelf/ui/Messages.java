@@ -1,4 +1,4 @@
-package home.anastasia.prog.bookshelf;
+package home.anastasia.prog.bookshelf.ui;
 
 public interface Messages {
     String COMMAND_PROMPT = "Что вы хотите сделать";

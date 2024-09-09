@@ -1,4 +1,4 @@
-package home.anastasia.prog.bookshelf.exception;
+package home.anastasia.prog.bookshelf.exception.ui;
 
 public class WrongUserInputException extends BookshelfException {
     public WrongUserInputException() {

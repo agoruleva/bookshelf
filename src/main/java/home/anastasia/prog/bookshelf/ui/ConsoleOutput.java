@@ -1,6 +1,6 @@
-package home.anastasia.prog.bookshelf;
+package home.anastasia.prog.bookshelf.ui;
 
-import static home.anastasia.prog.bookshelf.Messages.EMPTY_BOOKSHELF_MESSAGE;
+import static home.anastasia.prog.bookshelf.ui.Messages.EMPTY_BOOKSHELF_MESSAGE;
 
 public class ConsoleOutput {
     private ConsoleOutput() {
