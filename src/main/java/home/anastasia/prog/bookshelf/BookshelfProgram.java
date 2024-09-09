@@ -1,7 +1,7 @@
 package home.anastasia.prog.bookshelf;
 
-public class Main {
+public class BookshelfProgram {
     public static void main(String[] args) {
-        System.out.println("Bookshelf project");
+        new Menu().launch();
     }
 }
